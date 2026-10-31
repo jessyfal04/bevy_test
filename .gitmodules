@@ -1,0 +1,3 @@
+[submodule "phonefish/godot_version"]
+	path = phonefish/godot_version
+	url = git@github.com:jessyfal04/phonefish.git
